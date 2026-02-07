@@ -1,1 +1,1 @@
-IT342_G5_Tan_Lab1
+IT342_G6_Tan_Lab1
