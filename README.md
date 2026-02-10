@@ -1,7 +1,7 @@
 # IT342 G6 Tan Lab 1
 
 ## Project Overview
-This project contains a comprehensive web application with backend, frontend, and mobile components.
+This project contains a comprehensive web application with backend, frontend, and mobile components for IT342 Lab 1.
 
 ## Project Structure
 ```
@@ -31,6 +31,18 @@ IT342_G6_Tan_Lab1/
 
 ## Documentation
 See `/docs` for detailed documentation and specifications.
+
+## Features
+- JWT Authentication
+- Spring Boot Backend
+- User Management
+- Secure API Endpoints
+
+## Technologies Used
+- Spring Boot
+- Spring Security
+- JWT (JSON Web Tokens)
+- Maven
 
 ## Contributors
 - Group 6 (Tan)
